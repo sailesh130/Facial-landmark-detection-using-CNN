@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Feb  4 19:10:30 2020
-@author: rjn
+@author: sailesh
 """
 
 # working with mainly reading, convert to grayscale, resizing images
